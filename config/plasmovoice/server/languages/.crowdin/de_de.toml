@@ -1,0 +1,57 @@
+[server.pv.error]
+no_permissions = "&cEs tut mir leid, aber du bist nicht berechtigt, diesen Befehl auszuführen. Bitte wende dich an die Serveradministratoren, wenn du glaubst, dass dies ein Fehler ist."
+player_only_command = "Nur Spieler können diesen Befehl ausführen"
+player_not_found = "Spieler wurde nicht gefunden"
+mod_missing_kick_message = """
+Entschuldigung, du musst die Plasmo Voice Mod installieren, um auf diesem Server spielen zu können.
+Hierunter kannst du sie herunterladen: https://modrinth.com/plugin/plasmo-voice"""
+version_not_supported = "Entschuldige, deine Plasmo Voice - Version wird auf diesem Server leider nicht unterstützt. %s"
+version_not_supported_click = "Unterstützte Version herunterladen"
+version_not_supported_hover = "%s"
+
+[server.pv.mutes]
+empty_reason = "nicht angegeben"
+temporarily_muted = "%1$s du wurdest stummgeschaltet. Grund: %2$s"
+permanently_muted = "Du wurdest permanent stummgeschaltet. Grund: %s"
+unmuted = "Du wurdest entmutet"
+
+  [server.pv.mutes.durations]
+  seconds = "für %s Sek"
+  minutes = "für %s Min"
+  hours = "für %s Std"
+  days = "für %s T"
+  weeks = "für %s W"
+
+[server.pv.command.mute]
+usage = "Verwende: /vmute <player> [duration] [reason]"
+already_muted = "%s ist bereits stummgeschaltet"
+temporarily_muted = "%1$s wurde stummgeschaltet %2$s. Grund: %3$s"
+permanently_muted = "%1$s ist permanent stummgeschaltet. Grund: %2$s"
+
+[server.pv.command.unmute]
+usage = "Verwende: /vunmute <player>"
+not_muted = "%s ist nicht stummgeschaltet"
+unmuted = "%s wurde entmutet"
+
+[server.pv.command.mute_list]
+header = "Stummgeschaltete Spieler:"
+entry = "%1$s, läuft ab: %2$s. Grund: %3$s"
+entry_muted_by = "%1$s stummgeschaltet von %2$s, läuft ab: %3$s. Grund: %4$s"
+empty = "Keine Spieler sind gemutet"
+expire_at = "%1$s in %2$s"
+never_expires = "niemals"
+expiration_date = "dd.MM.yyyy"
+expiration_time = "HH:mm:ss"
+
+[server.pv.command.list]
+message = "Clients (%1$s/%2$s): %3$s"
+empty = "keine Player, die Plasmo Voice installiert haben"
+
+[server.pv.command.reconnect]
+message = "Erneute Verbindung gesendete Pakete"
+
+[server.pv.command.reload]
+message = "Konfig wurde neu geladen"
+
+[client.pv.activation]
+proximity = "Proximity"

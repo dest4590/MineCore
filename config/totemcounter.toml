@@ -1,0 +1,13 @@
+displayEnabled = true
+x = -1
+y = -1
+useDefaultTotem = false
+displayColors = true
+coloredXpBar = false
+alwaysShowBar = false
+showPopCounter = false
+counterEnabled = true
+separator = true
+counterColors = true
+showInTab = false
+disableArmorStands = false

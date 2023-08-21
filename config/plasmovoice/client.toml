@@ -1,0 +1,76 @@
+debug = false
+disable_crowdin = false
+check_for_updates = true
+
+[activations.4aec07ba-d109-3345-9a0a-92022a116cd0]
+toggle = false
+type = "VOICE"
+[[key_bindings]]
+name = "key.plasmovoice.proximity.toggle"
+any_context = false
+category = "hidden"
+
+[[key_bindings.keys]]
+code = 88
+type = "KEYSYM"
+
+[servers.cf82efe7-ad20-4f9d-98ec-58cfa1b484f8.distances]
+4aec07ba-d109-3345-9a0a-92022a116cd0 = 32
+
+[addons.pv-addon-soundphysics]
+"gui.plasmovoice.soundphysics.mic_reverb_volume" = 0.3
+"gui.plasmovoice.soundphysics.enabled" = true
+"gui.plasmovoice.soundphysics.mic_reverb" = true
+
+[voice]
+disabled = false
+microphone_disabled = false
+activation_threshold = -30.0
+input_device = ""
+output_device = ""
+use_javax_input = false
+microphone_volume = 1.2
+noise_suppression = false
+volume = 1.0
+compressor_limiter = true
+sound_occlusion = false
+directional_sources = false
+hrtf = false
+stereo_capture = false
+
+[voice.volumes.source_5ce79578-d207-469d-8a60-e3c14df53376]
+volume = 1.0
+[voice.volumes.proximity]
+volume = 1.0
+[voice.volumes.source_2467a74a-76eb-3fb0-8dbc-dcd194604f80]
+volume = 2.0
+[voice.volumes.source_08d133ba-7415-450a-8e0b-df2ab1dc5a98]
+volume = 1.0
+[voice.volumes.source_af762216-da7f-487b-84e3-3bb79e579b52]
+volume = 1.0
+[voice.volumes.source_9041b2ac-c79c-476e-80a1-330a4b53fbe5]
+volume = 1.0
+
+[advanced]
+visualize_voice_distance = true
+visualize_voice_distance_on_join = false
+compressor_threshold = -10
+limiter_threshold = -6
+directional_sources_angle = 145
+stereo_sources_to_mono = false
+panning = true
+camera_sound_listener = true
+exponential_volume_slider = true
+exponential_distance_gain = true
+
+[overlay]
+show_activation_icon = true
+activation_icon_position = "BOTTOM_CENTER"
+show_source_icons = 0
+show_static_source_icons = true
+overlay_enabled = true
+overlay_position = "TOP_LEFT"
+overlay_style = "NAME_SKIN"
+
+[overlay.source_states]
+proximity = "OFF"
