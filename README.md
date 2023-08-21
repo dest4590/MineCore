@@ -74,6 +74,7 @@
 * Iris Shaders - A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
 * Plasmo Voice - A proximity voice chat mod with audio positioning and lots of features
 * pv-addon-soundphysics - Compatability add-on for Plasmo Voice and Sound Physics Remastered mod. With this add-on Plasmo Voice will be affected by Sound Physics
+* LazyDFU - Makes the game boot faster by deferring non-essential initialization
 </details>
 
 ## Credits:
