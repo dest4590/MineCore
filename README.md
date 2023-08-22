@@ -24,7 +24,6 @@
 * **Cherished Worlds - Cherished Worlds is a mod that adds the ability to favorite/pin/bookmark certain worlds.**
 * **ClickThrough - Click through signs and item frames to chests.**
 * **Cloth Config Api - Configuration Library for Minecraft Mods**
-* **Clumps - Clumps XP orbs together to reduce lag**
 * **CompleteConfig - Configuration Library for Fabric Mods**
 * **Concurrent Chunk Management Engine - A Fabric mod designed to improve the chunk performance of Minecraft**
 * **Continuity - A Fabric mod that allows for efficient connected textures**
