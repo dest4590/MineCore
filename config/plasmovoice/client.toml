@@ -3,7 +3,7 @@ disable_crowdin = false
 check_for_updates = true
 
 [activations.4aec07ba-d109-3345-9a0a-92022a116cd0]
-toggle = false
+toggle = true
 type = "VOICE"
 [[key_bindings]]
 name = "key.plasmovoice.proximity.toggle"
@@ -40,10 +40,10 @@ stereo_capture = false
 
 [voice.volumes.source_5ce79578-d207-469d-8a60-e3c14df53376]
 volume = 1.0
-[voice.volumes.proximity]
-volume = 1.0
 [voice.volumes.source_2467a74a-76eb-3fb0-8dbc-dcd194604f80]
 volume = 2.0
+[voice.volumes.proximity]
+volume = 1.0
 [voice.volumes.source_08d133ba-7415-450a-8e0b-df2ab1dc5a98]
 volume = 1.0
 [voice.volumes.source_af762216-da7f-487b-84e3-3bb79e579b52]
