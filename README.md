@@ -101,6 +101,8 @@
 * **oωo (owo-lib) - A general utility, GUI and config library for modding on Fabric**
 * **pv-addon-soundphysics - Compatability add-on for Plasmo Voice and Sound Physics Remastered mod. With this add-on Plasmo Voice will be affected by Sound Physics**       
 * **ukulib - small utility library used in uku mods**
+* **Presence Footsteps - An Overly complicated Sound Mod**
+* **Falling Leaves - Adds a neat little particle effect to leaf blocks**
 
 </details>
 
