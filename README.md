@@ -89,7 +89,6 @@
 * **ThreadTweak -  Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20**
 * **TieFix - Fixes some annoying bugs in the Minecraft client**
 * **ToolTipFix - Fixes Tooltips from runnning off the screen**
-* **TotemCounter - counts the amounts of skill issues (totem pops)**
 * **Too Many Players - Allows you to increase FPS with a large crowd of players**
 * **ViaFabricPlus - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay**
 * **YetAnotherConfigLib - A builder-based configuration library for Minecraft**
