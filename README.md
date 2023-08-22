@@ -1,5 +1,8 @@
 <h1 align=center>MineCore Lite</h1>
 <h2 align=center>Simple and more optimized modpack for minecraft</h2>
+
+> **This branch has only optimization mods**
+
 <details>
 <summary><b>Mods list: </b></summary>
 
