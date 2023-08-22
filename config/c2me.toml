@@ -7,12 +7,7 @@ globalExecutorParallelism = "1"
 [clientSideConfig]
 
 	[clientSideConfig.modifyMaxVDConfig]
-		# (Default: true) Whether to modify maximum view distance
-		# Set to false for the following reasons: 
-		# Incompatible with bobby@5.0.1 (*) (defined in c2me) 
-		enabled = "default"
-		# (Default: 32) Max render distance allowed in game options
-		maxViewDistance = "default"
+		enabled = false
 
 [fixes]
 	# (Default: true) Enforces safe world random access.  
@@ -27,16 +22,9 @@ globalExecutorParallelism = "1"
 	enforceSafeWorldRandomAccess = "default"
 
 [noTickViewDistance]
-	# (Default: true) Whether to use compatibility mode to send chunks 
-	#  This may fix some mod compatibility issues
-	compatibilityMode = "default"
-	# (Default: 2) No-tick view distance max concurrent chunk loads 
-	#  Lower this for a better latency and higher this for a faster loading
-	maxConcurrentChunkLoads = "default"
-	# (Default: false) Whether to ensure correct chunks within normal render distance 
-	#  This will send chunks twice increasing network load
+	compatibilityMode = false
+	maxConcurrentChunkLoads = 1
 	ensureChunkCorrectness = "default"
-	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
 
 [generalOptimizations]
@@ -92,7 +80,7 @@ globalExecutorParallelism = "1"
 	# Whether to use the fast reduced allocation chunk serializer
 	# (may cause incompatibility with other mods)
 	# 
-	gcFreeChunkSerializer = "default"
+	gcFreeChunkSerializer = true
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
 	# (Default: 8192) Soft limit for io worker nbt cache

@@ -6,14 +6,14 @@ useBlockStateCulling = true
 useCustomItemFrameRenderer = true
 itemFrameMapCulling = true
 useItemFrameLOD = true
-itemFrameLODRange = 128
+itemFrameLODRange = 48
 useItemFrame3FaceCulling = true
 itemFrame3FaceCullingRange = 0.0
-leavesCullingMode = "FAST"
+leavesCullingMode = "CHECK"
 leavesCullingAmount = 2
 includeMangroveRoots = true
 powderSnowCulling = true
-entityModelCulling = false
+entityModelCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]

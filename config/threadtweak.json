@@ -6,8 +6,8 @@
   "threadPriority": {
     "game": 8,
     "bootstrap": 1,
-    "main": 3,
-    "io": 4,
-    "integratedServer": 5
+    "main": 2,
+    "io": 7,
+    "integratedServer": 8
   }
 }
