@@ -15,8 +15,8 @@
   ],
   "tracingDistance": 128,
   "debugMode": false,
-  "sleepDelay": 10,
-  "hitboxLimit": 50,
+  "sleepDelay": 125,
+  "hitboxLimit": 80,
   "skipMarkerArmorStands": true,
   "tickCulling": true,
   "tickCullingWhitelist": [

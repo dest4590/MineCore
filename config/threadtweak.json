@@ -4,10 +4,10 @@
     "main": 7
   },
   "threadPriority": {
-    "game": 5,
+    "game": 8,
     "bootstrap": 1,
-    "main": 1,
-    "io": 1,
+    "main": 3,
+    "io": 4,
     "integratedServer": 5
   }
 }
