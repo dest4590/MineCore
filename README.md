@@ -1,8 +1,18 @@
 <h1 align=center>MineCore</h1>
 <h2 align=center>Simple and optimized modpack for minecraft</h2>
 <h3><a href="https://modrinth.com/modpack/minecore">Page on modrinth</a></h3>
-<img alt="Modrinth Version" src="https://img.shields.io/modrinth/v/minecore">
-<img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/minecore?style=flat-square">
+
+</br>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Download-Latest-Release?style=for-the-badge&logo=github&color=%23194fa6">
+
+<div>
+  <img alt="Modrinth Version" src="https://img.shields.io/modrinth/v/minecore?style=for-the-badge&logo=hackthebox">
+  &nbsp;
+  <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/minecore?style=for-the-badge&logo=icloud">
+</div>
+
+</br>
 
 <details>
 <summary><b>Mods list: </b></summary>
