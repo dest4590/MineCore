@@ -4,7 +4,7 @@
 
 </br>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Download-Latest-Release?style=for-the-badge&logo=github&color=%23194fa6">
+<a href="https://github.com/dest4590/MineCore/release/latest"><img alt="Static Badge" src="https://img.shields.io/badge/Download-Latest-Release?style=for-the-badge&logo=github&color=%23194fa6"></a>
 
 <div>
   <img alt="Modrinth Version" src="https://img.shields.io/modrinth/v/minecore?style=for-the-badge&logo=hackthebox">
