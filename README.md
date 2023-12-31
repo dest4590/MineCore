@@ -1,4 +1,6 @@
-<h1 align=center>MineCore</h1>
+<h1 align=center>We are moved to <a href="https://modrinth.com/modpack/minecore">Modrinth</a></h1>
+
+<h2 align=center>MineCore</h2>
 <h2 align=center>Simple and optimized modpack for minecraft</h2>
 <h3><a href="https://modrinth.com/modpack/minecore">Page on modrinth</a></h3>
 
