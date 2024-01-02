@@ -3,7 +3,7 @@ name: ModPack Crash/Bug
 about: Create a report to help us improve
 title: "[CRASH/BUG]"
 labels: bug
-assignees: purpl3-yt
+assignees: dest4590
 
 ---
 
@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
+ - OS: [e.g. Windows 10]
 
 **Additional context**
 Add any other context about the problem here.
