@@ -1,9 +1,9 @@
 ---
 name: Mod Request
 about: Request that a mod be added to the modpack
-title: ''
+title: '[Request] Mod name'
 labels: request
-assignees: ''
+assignees: dest4590
 
 ---
 
